@@ -1,3 +1,3 @@
 <?php
-print "Hello OpenShift!!! PHP version is " . PHP_VERSION . "\n";
+print "I am using PHP version:" . PHP_VERSION . "\n";
 ?>
